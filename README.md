@@ -1,5 +1,3 @@
-<h3 align="center">Hey, pleasure to code for you<br>/** sorry **/<br>pleasure to meet you</h3>
-
 ###
 
 <div align="center">
